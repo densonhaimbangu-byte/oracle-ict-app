@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">ORACLE ICT AI</string>
+    <string name="title_activity_main">ORACLE ICT AI</string>
+    <string name="package_name">com.intellectualmindset.oracleict</string>
+    <string name="custom_url_scheme">com.intellectualmindset.oracleict</string>
+</resources>
